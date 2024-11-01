@@ -3,7 +3,6 @@
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # 强制代理列表，来自个人收集
 # NAME: talkatone规则-DIRECT
-host-suffix, tktn.be
 DOMAIN-SUFFIX,mobilefuse.com
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,crashlytics.com
@@ -13,10 +12,6 @@ DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,agkn.com
 DOMAIN-SUFFIX,tktn.at
-IP-CIDR,50.117.27.0/24
-IP-CIDR,69.46.75.0/24
-IP-CIDR,205.164.56.0/24
-IP-CIDR,63.251.124.0/24
 
 # EA Desktop 云同步
 #DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
